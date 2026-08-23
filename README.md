@@ -1,5 +1,5 @@
                                                 Feven Gebremedhn
-                                                Software Engineer
+                                               
 I design and build modern, responsive, and user-friendly websites and web applications that turn ideas into practical digital experiences.
 
 I focus on creating clean interfaces, smooth user experiences, and reliable functionality from frontend to backend.
