@@ -1,16 +1,18 @@
-## Hi there 👋
+                                                Feven Gebremedhn
+                                                Software Engineer
+I design and build modern, responsive, and user-friendly websites and web applications that turn ideas into practical digital experiences.
 
-<!--
-**feven1123/feven1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on creating clean interfaces, smooth user experiences, and reliable functionality from frontend to backend.
 
-Here are some ideas to get you started:
+What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Business Websites
+- 💻 Web Applications
+- 🛒 E-commerce Websites
+- 📊 Business Management Systems
+- 🎓 Learning Platforms
+- 📱 Responsive & Mobile-Friendly Websites
+
+Technologies
+
+React · Next.js · TypeScript · JavaScript · HTML · CSS · Node.js · Python · PostgreSQL · MySQL · MongoDB
